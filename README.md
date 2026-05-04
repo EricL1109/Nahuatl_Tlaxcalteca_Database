@@ -25,9 +25,10 @@ The experimental evaluation was conducted using BLEU, chrF, and TER metrics, whi
 
 ## Authors
 
-* Nancy Galicia Cocoletzi
-* Eric Ramos Aguilar
-* Cecilia Reyes Peña
+* Nancy Galicia-Cocoletzi
+* Eric Ramos-Aguilar
+* Cecilia Reyes-Peña
+* Ricardo Ramos-Aguilar
 
 ## Citation
 
